@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21534a11.css",
+    "main.js": "/static/js/main.b6615a72.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/animate.png": "/static/media/animate.a3214545fff760dbd892.png",
+    "static/media/Tailwind.png": "/static/media/Tailwind.9c2e5bcf4f97d73e438e.png",
+    "static/media/CSS.png": "/static/media/CSS.1a57e67ac1fd2ea84d64.png",
+    "static/media/React.png": "/static/media/React.53dc6bc56f1c8aa7f441.png",
+    "static/media/NodeJs.svg": "/static/media/NodeJs.433e55e629432606712bdd47c6e3a61b.svg",
+    "static/media/Saas.svg": "/static/media/Saas.d0d033487cd9f7a8e24cfeae330525e1.svg",
+    "static/media/Next.svg": "/static/media/Next.2e296d8e8f5b961cea3781c0d5fcfaf6.svg",
+    "static/media/MongoDB.svg": "/static/media/MongoDB.55003af2c629675b0af175687c6970fc.svg",
+    "static/media/Graphql.svg": "/static/media/Graphql.c0d2b1e1986e9933c2b7d4dacae45d11.svg",
+    "static/media/Redux.svg": "/static/media/Redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.fa3ecb79b97703729d7a0af06b667c22.svg",
+    "static/media/Bootstrap.svg": "/static/media/Bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/Github.svg": "/static/media/Github.e0493221353f5e3333b986e5f4eb50b0.svg",
+    "static/media/Git.svg": "/static/media/Git.3a71a2d03b1205894fb1d6dfcfc788a3.svg",
+    "index.html": "/index.html",
+    "main.21534a11.css.map": "/static/css/main.21534a11.css.map",
+    "main.b6615a72.js.map": "/static/js/main.b6615a72.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21534a11.css",
+    "static/js/main.b6615a72.js"
+  ]
+}
